@@ -6,5 +6,5 @@ Configuration for conky.
 ## Installation
 
 ```
-ln -s $PWD/conkyrc ~/.conkyrc
+ln -s $PWD ~/config/conky
 ```
